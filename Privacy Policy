@@ -1,0 +1,41 @@
+<!doctype html><meta charset="utf-8">
+<title>Privacy Policy – Oura iOS Widget</title>
+<h1>Privacy Policy</h1>
+<p>Last updated: [DATE]</p>
+<p>This app (“Oura iOS Widget”) is a personal project operated by [YOUR NAME/ENTITY]. 
+It connects to the Oura API with your permission to display your health metrics in an iOS widget.</p>
+
+<h2>Data We Access</h2>
+<ul>
+  <li>Oura data you authorize (e.g., sleep, readiness, activity).</li>
+  <li>OAuth tokens needed to fetch that data.</li>
+</ul>
+
+<h2>How We Use and Store Data</h2>
+<p>Data is used only to show metrics inside the app. 
+[Choose one]</p>
+<ul>
+  <li><b>App-only:</b> Data and tokens are stored on your device (Keychain/local storage). No server stores your data.</li>
+  <li><b>With backend:</b> Webhook payloads and/or tokens may be stored on our infrastructure 
+  (e.g., Cloudflare KV/D1) to deliver data to the app.</li>
+</ul>
+
+<h2>Sharing</h2>
+<p>We do not sell or share your data with third parties. Data may be processed by our service providers 
+(e.g., Cloudflare) strictly to run the app.</p>
+
+<h2>Retention & Deletion</h2>
+<p>We keep data only as long as needed for the app to function. 
+You can revoke access at any time through Oura’s account settings, or request deletion by contacting us.</p>
+
+<h2>Security</h2>
+<p>We use platform storage (e.g., iOS Keychain) and HTTPS. No method is 100% secure; use at your own risk.</p>
+
+<h2>Your Choices</h2>
+<ul>
+  <li>Revoke Oura access at any time in Oura settings.</li>
+  <li>Request data deletion via email.</li>
+</ul>
+
+<h2>Contact</h2>
+<p>Email: <a href="mailto:[YOUR EMAIL]">[YOUR EMAIL]</a></p>
